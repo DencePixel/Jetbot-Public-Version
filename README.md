@@ -29,4 +29,5 @@ The one you are currently reading, the public version is a easier to configure a
 
 # What are the official Jetbot Links?
 [Official Support Server](https://discord.gg/aEXCt9QP7k)
+
 [Official Website](https://jetbot.carrd.co/)
